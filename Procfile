@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ayush_crowdbotics_121.wsgi:application
